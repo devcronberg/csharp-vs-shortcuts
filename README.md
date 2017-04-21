@@ -15,4 +15,4 @@
 * F10 = Step over
 * F11 = Step into
 * Ctrl + Shift + F9 = Delete all breakpoints
-
+* Alt + up/down arrow = Move selected code
