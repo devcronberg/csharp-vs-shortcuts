@@ -8,4 +8,11 @@
 * Ctrl + K + R = Find all references
 * Ctrl + . = Quick actions
 * Ctrl + [space] = Activate intelliSense 
+* F5 = Start with debugger
+* Ctrl + F5 = Start without debugger
+* Shift + F5 = End debugger session
+* F9 = Set breakpoint
+* F10 = Step over
+* F11 = Step into
+* Ctrl + Shift + F9 = Delete all breakpoints
 
