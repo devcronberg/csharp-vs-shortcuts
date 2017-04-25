@@ -4,6 +4,8 @@
 * Ctrl + K + D = Format code
 * Ctrl + K + C = Comment selection
 * Ctrl + K + U = Uncomment selection
+* Ctrl + K + X = Insert snippet
+* Ctrl + K + L = Surround with (snippet)
 * F12 = Goto definition
 * Ctrl + K + R = Find all references
 * Ctrl + . = Quick actions
