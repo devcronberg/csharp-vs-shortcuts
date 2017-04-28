@@ -19,3 +19,6 @@
 * Ctrl + Shift + F9 = Delete all breakpoints
 * Alt + up/down arrow = Move selected code
 * Ctrl + Shift + B = Build
+
+## Misc
+* C# Interactive = Find it under the "Other windows"-submenu on the "View"-menu
