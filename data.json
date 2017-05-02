@@ -1,3 +1,10 @@
 {
-"title": ""
+  "shortcuts":{
+    "title": "Shorcuts",
+    "values":[
+      {
+        "shortcut":"ctrl + shift + b"
+      }
+    ]
+  }
 }
