@@ -7,7 +7,7 @@
         "desc": "Compile"
       },
       {
-        "name": "ctrl + k + c"
+        "name": "ctrl + k + c",
         "desc": "Comment code"
       }
     ]
