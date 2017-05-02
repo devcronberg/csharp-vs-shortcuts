@@ -31,3 +31,4 @@ Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 * try = try catch
 * do = do/while
 * if = if
+* cw = Console.WriteLine()
