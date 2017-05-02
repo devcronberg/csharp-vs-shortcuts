@@ -22,3 +22,12 @@
 
 ## Misc
 * C# Interactive = Find it under the "Other windows"-submenu on the "View"-menu
+
+## Snippets 
+
+Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
+
+* for = for loop
+* try = try catch
+* do = do/while
+* if = if
