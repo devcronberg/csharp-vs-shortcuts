@@ -4,6 +4,9 @@
     "values":[
       {
         "shortcut":"ctrl + shift + b"
+      },
+      {
+        "name": "ctrl + k + c"
       }
     ]
   }
