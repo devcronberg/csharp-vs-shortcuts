@@ -3,10 +3,12 @@
     "title": "Shorcuts",
     "values":[
       {
-        "shortcut":"ctrl + shift + b"
+        "name":"ctrl + shift + b",
+        "desc": "Compile"
       },
       {
         "name": "ctrl + k + c"
+        "desc": "Comment code"
       }
     ]
   }
