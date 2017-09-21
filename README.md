@@ -19,6 +19,8 @@
 * Ctrl + Shift + F9 = Delete all breakpoints
 * Alt + up/down arrow = Move selected code
 * Ctrl + Shift + B = Build
+* Ctrl + , = Global find "what ever"
+
 ## Snippets 
 Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 
@@ -27,3 +29,10 @@ Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 * do = do/while
 * if = if
 * cw = Console.WriteLine()
+* Use the Snippet Desginer extension to create your own
+
+## Task list
+* use // TODO or HACK 
+* Find the Taks List Window (use quick launch in the upper right corner)
+* Create your own tokens in Tools->Option->Environment->Task List
+* Use shortcuts to jump to token
