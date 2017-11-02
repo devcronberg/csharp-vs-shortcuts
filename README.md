@@ -19,7 +19,8 @@
 * Ctrl + Shift + F9 = Delete all breakpoints
 * Alt + up/down arrow = Move selected code
 * Ctrl + Shift + B = Build
-* Ctrl + , = Global find "what ever"
+* Ctrl + , = Global find types, members, files
+* Ctrl + Tab = switch between windows
 
 ## Snippets 
 Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
