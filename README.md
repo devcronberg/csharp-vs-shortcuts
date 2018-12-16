@@ -32,6 +32,14 @@ Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 * cw = Console.WriteLine()
 * Use the Snippet Desginer extension to create your own
 
+Find more basic snippets [here](https://github.com/devcronberg/csharp-snippets)
+
+## Editor config
+
+Use a .editorconfig-file fore rules and formatering in VS
+
+https://github.com/devcronberg/cskursus-editorconfig
+
 ## Task list
 * use // TODO or HACK 
 * Find the Taks List Window (use quick launch in the upper right corner)
