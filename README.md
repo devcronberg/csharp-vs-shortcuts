@@ -36,12 +36,8 @@ Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 
 ## Editor config
 
-Use a .editorconfig-file fore rules and formatering in VS
+Use a .editorconfig-file for rules and formatering in VS
 
 https://github.com/devcronberg/cskursus-editorconfig
 
-## Task list
-* use // TODO or HACK 
-* Find the Taks List Window (use quick launch in the upper right corner)
-* Create your own tokens in Tools->Option->Environment->Task List
-* Use shortcuts to jump to token
+
