@@ -32,7 +32,7 @@ Enter shortcut and press the tab-key twice (eg. "for" + tab + tab)
 * cw = Console.WriteLine()
 * Use the Snippet Desginer extension to create your own
 
-Find more basic snippets [here](https://github.com/devcronberg/csharp-snippets)
+[Find more snippets for Console-applications here](https://github.com/devcronberg/csharp-snippets)
 
 ## Editor config
 
