@@ -1,5 +1,7 @@
 # Basic shortcuts, snippets and tips and tricks related to C# in Visual Studio (2015/2017)
 
+Fint this at https://github.com/devcronberg/csharp-vs-shortcuts
+
 ## Keybord shortcuts
 * Ctrl + K + D = Format code
 * Ctrl + K + C = Comment selection
